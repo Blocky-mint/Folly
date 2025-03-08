@@ -251,7 +251,7 @@ Contributions to Folly are welcome! Please see the [Contributing Guidelines](CON
 
 ## Credits
 
-This project, Folly, was created by [user1342](https://github.com/user1342) and is maintained by its contributors. For a complete list of those who have helped with the development, please see the [contributors page](https://github.com/user1342/Folly/graphs/contributors).
+This project, Folly, was created by [user1342](https://github.com/user1342) and is maintained by him and its contributors. For a complete list of those who have helped with the development, please see the [contributors page](https://github.com/user1342/Folly/graphs/contributors).
 
 If you use Folly in your research or security work, please consider citing it as:
 ```
