@@ -259,7 +259,7 @@ If you use Folly in your research or security work, please consider citing it as
 author = {user1342 and contributors},
 title = {Folly: A professional toolkit for testing prompt injection vulnerabilities and security boundaries in Large Language Models},
 url = {https://github.com/user1342/Folly},
-year = {2023},
+year = {2025},
 }
 ```
 ## License
