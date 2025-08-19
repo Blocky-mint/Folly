@@ -309,6 +309,19 @@ folly-cli <api_url> [options]
 | `--no-color` | Disable colored output | False |
 | `--challenge`, `-c` | Start with a specific challenge | None |
 
+## Credits
+
+This project, Folly, was created by [user1342](https://github.com/user1342) and is maintained by him and its contributors. For a complete list of those who have helped with the development, please see the [contributors page](https://github.com/user1342/Folly/graphs/contributors).
+
+If you use Folly in your research or security work, please consider citing it as:
+```
+@software{Folly,
+author = {user1342 and contributors},
+title = {Folly: A professional toolkit for testing prompt injection vulnerabilities and security boundaries in Large Language Models},
+url = {https://github.com/user1342/Folly},
+year = {2025},
+}
+```
 ## License
 
 See the [LICENSE](LICENSE) file for details.
